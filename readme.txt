@@ -1,4 +1,4 @@
-=== Energy Search ===
+=== wordpress-thingiverse-display ===
 Contributors: Gamer2020
 Donate link: https://gamer2020.net/?page_id=335
 Tags: Thingiverse, 3D, Gamer2020
@@ -7,7 +7,7 @@ Tested up to: 5.5
 Stable tag: 0.1
 Requires PHP: 7.4.0
 License: GPLv3 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 A wordpress plugin to display a Thingiverse thing in a wordpress post.
 
